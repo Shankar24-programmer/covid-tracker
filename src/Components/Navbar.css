@@ -1,0 +1,22 @@
+.navbar{
+    height: 80px;
+    background-color:black;
+}
+.navbar-brand {
+    font-weight: bold;
+    margin-left: 40px;
+    color: white;
+    font-size: 25px;
+}
+.navbar-brand:hover {
+    font-weight: bold;
+    margin-left: 40px;
+    color: #00fae1;
+    font-size: 25px;
+}
+
+.navbar-nav {
+    margin-left: 1000px;
+    text-decoration: none;
+    color: black;
+}
